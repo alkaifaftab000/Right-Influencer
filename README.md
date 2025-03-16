@@ -2,7 +2,7 @@
 
 ## Project Overview 📜
 This project leverages the Twitch dataset to identify the top five influencers within the Twitch network. By applying advanced graph metrics on Twitch nodes and edges, the analysis aims to determine the most influential individuals.
-
+[See on kaggle](https://www.kaggle.com/code/alkaifansari000/rightinfluencer)
 ---
 
 ## Workflows ⚙️
